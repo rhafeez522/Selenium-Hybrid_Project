@@ -1,0 +1,1092 @@
+2026-06-08 13:36:22.240 [main] INFO  TestCases.BaseTest - Test Has bee started
+2026-06-08 13:36:23.641 [main] INFO  TestCases.BaseTest - Entering Registeration Details.
+2026-06-08 13:36:25.155 [main] INFO  TestCases.BaseTest - Clicking on Contineu Button.
+2026-06-08 13:36:27.153 [main] INFO  TestCases.BaseTest - Test Case Passed.
+2026-06-08 13:39:45.003 [main] INFO  TestCases.BaseTest - Test Has been started
+2026-06-08 13:39:46.324 [main] INFO  TestCases.BaseTest - Entering Registeration Details.
+2026-06-08 13:39:47.521 [main] INFO  TestCases.BaseTest - Clicking on Contineu Button.
+2026-06-08 13:39:49.653 [main] INFO  TestCases.BaseTest - Test Case Passed.
+2026-06-08 14:16:02.233 [TestNG-tests-1] INFO  TestCases.BaseTest - Test Has been started
+2026-06-08 14:16:07.416 [TestNG-tests-2] INFO  TestCases.BaseTest - Test Has been started
+2026-06-08 14:16:09.223 [TestNG-tests-2] INFO  TestCases.BaseTest - Entering Registeration Details.
+2026-06-08 14:16:09.988 [TestNG-tests-2] INFO  TestCases.BaseTest - Clicking on Contineu Button.
+2026-06-08 14:16:10.555 [TestNG-tests-1] INFO  TestCases.BaseTest - Entering Registeration Details.
+2026-06-08 14:16:12.036 [TestNG-tests-1] INFO  TestCases.BaseTest - Clicking on Contineu Button.
+2026-06-08 14:16:12.237 [TestNG-tests-2] INFO  TestCases.BaseTest - Test Case Passed.
+2026-06-08 14:16:14.015 [TestNG-tests-1] INFO  TestCases.BaseTest - Test Case Passed.
+2026-06-08 15:27:54.036 [TestNG-tests-1] INFO  TestCases.BaseTest - Test Has been started
+2026-06-08 15:27:55.544 [TestNG-tests-1] INFO  TestCases.BaseTest - Entering Registeration Details.
+2026-06-08 15:27:56.584 [TestNG-tests-1] INFO  TestCases.BaseTest - Clicking on Contineu Button.
+2026-06-08 15:27:58.610 [TestNG-tests-1] INFO  TestCases.BaseTest - Test Case Passed.
+2026-06-08 17:07:02.013 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-08 17:07:02.758 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-08 17:07:03.052 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-08 17:07:03.171 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-08 17:07:05.087 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-08 17:07:05.089 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-08 17:07:05.175 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-08 17:07:06.199 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-08 17:11:42.034 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-08 17:11:42.823 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-08 17:11:43.070 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-08 17:11:43.185 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-08 17:11:43.315 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-08 17:11:43.318 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-08 17:11:45.033 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-08 17:11:46.097 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-08 17:11:46.815 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-08 17:22:24.326 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-08 17:22:25.022 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-08 17:22:25.287 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-08 17:22:25.422 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-08 17:22:25.553 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-08 17:22:25.576 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-08 17:22:27.536 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-08 17:22:28.623 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-08 17:22:29.471 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-09 17:55:41.016 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 17:55:41.703 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 17:55:41.971 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 17:55:42.166 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 17:55:42.319 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 17:55:42.337 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-09 17:55:43.831 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-09 17:55:44.914 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-09 17:55:45.582 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-09 18:05:00.470 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:05:01.693 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:05:01.948 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:05:02.076 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:05:02.208 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:05:13.647 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:05:13.647 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:05:13.647 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:05:13.789 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:05:16.037 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:05:16.278 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:05:16.447 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:05:16.682 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:05:22.991 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:05:22.991 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:05:22.991 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:05:23.143 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:05:23.975 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:05:24.222 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:05:24.360 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:05:24.517 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:05:30.549 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:05:30.549 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:05:30.549 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:05:30.671 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:05:31.272 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:05:31.383 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:05:31.500 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:05:32.726 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:05:37.728 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:05:37.728 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:05:37.728 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:05:37.867 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:05:38.463 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:08:37.046 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:08:37.849 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:08:38.123 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:08:38.258 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:08:38.417 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:08:44.651 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:08:44.661 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:08:44.662 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:08:44.806 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:08:45.472 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:08:45.733 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:08:45.847 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:08:47.389 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:08:52.462 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:08:52.462 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:08:52.462 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:08:52.603 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:08:53.344 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:08:53.558 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:08:53.693 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:08:53.818 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:08:58.831 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:08:58.831 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:08:58.831 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:08:58.976 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:08:59.590 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:08:59.688 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:08:59.968 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:09:08.434 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:09:13.458 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:09:13.458 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:09:13.458 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:09:13.592 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:09:14.229 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:12:48.213 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:12:49.002 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:12:49.245 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:12:49.383 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:12:50.628 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:12:55.661 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:12:55.670 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:12:55.670 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:12:55.805 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:12:56.653 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:12:56.913 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:12:57.080 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:12:59.136 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:13:04.145 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:13:04.145 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:13:04.145 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:13:04.270 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:13:04.888 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:13:05.056 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:13:05.177 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:13:06.889 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:13:11.932 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:13:11.932 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:13:11.932 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:13:12.038 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:13:12.638 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:13:12.734 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:13:12.865 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:13:12.982 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:13:19.244 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:13:19.244 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:13:19.244 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:13:19.366 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:13:19.932 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:14:59.294 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:15:00.196 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:15:00.446 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:15:00.578 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:15:00.737 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:15:07.122 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:15:07.138 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:15:07.138 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:15:07.285 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:15:08.582 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:15:08.871 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:15:08.970 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:15:09.120 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:15:15.767 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:15:15.767 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:15:15.767 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:15:15.889 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:15:16.461 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:15:16.651 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:15:16.767 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:15:16.864 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:15:21.894 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:15:21.894 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:15:21.909 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:15:22.022 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:15:22.608 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:15:22.958 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:15:23.081 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:15:24.629 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:15:24.699 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:15:24.699 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:15:25.671 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:15:25.799 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:15:26.406 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:21:38.419 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:21:39.363 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:21:39.598 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:21:39.732 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:21:39.864 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:21:45.956 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:21:45.963 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:21:45.964 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:21:46.086 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:21:46.727 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:21:46.916 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:21:47.162 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:21:47.357 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:21:52.369 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:21:52.369 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:21:52.369 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:21:52.519 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:21:53.204 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:21:53.377 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:21:53.510 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:21:54.722 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:21:59.770 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:21:59.770 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:21:59.770 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:21:59.892 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:22:00.482 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 18:22:00.683 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 18:22:00.865 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 18:22:02.680 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 18:22:02.733 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 18:22:02.733 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 18:22:04.381 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 18:22:04.503 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 18:22:05.110 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:40:34.642 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:40:35.442 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:40:35.730 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:40:35.859 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:40:36.069 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:40:42.191 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:40:42.321 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:40:43.221 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:40:43.469 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:40:43.717 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:40:43.849 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:40:48.877 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:40:49.001 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:40:49.628 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:40:49.800 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:40:49.921 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:40:50.029 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:40:56.144 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:40:56.256 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:40:56.841 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:40:57.024 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:40:57.155 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:40:57.265 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:40:58.775 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:40:58.910 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:43:51.877 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:43:52.716 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:43:52.978 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:43:53.140 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:43:54.698 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:43:59.778 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:43:59.778 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:43:59.778 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 21:43:59.923 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:44:00.739 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:44:01.156 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:44:01.302 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:44:02.579 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:44:07.607 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:44:07.607 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:44:07.607 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 21:44:07.738 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:44:08.462 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:44:08.694 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:44:08.959 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:44:09.125 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:44:15.400 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:44:15.400 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:44:15.400 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 21:44:15.525 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:44:16.110 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:44:16.205 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:44:16.317 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:44:16.450 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:44:21.471 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:44:21.471 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:44:21.471 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 21:44:21.598 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:44:22.200 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:44:22.395 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:44:22.511 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:44:23.996 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:44:24.043 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:44:24.043 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:44:24.043 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 21:44:24.185 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:46:21.081 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:46:21.937 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:46:22.216 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:46:22.352 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:46:22.542 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:46:33.843 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:46:34.432 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:46:34.641 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:46:34.760 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:46:34.880 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:46:45.110 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:46:45.703 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:46:45.884 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:46:46.016 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:46:46.144 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:46:57.244 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:46:57.812 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:46:57.919 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:46:58.038 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:46:58.150 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:47:08.399 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:47:08.976 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:47:09.157 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:47:09.289 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:47:11.044 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:47:12.035 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:47:12.036 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:47:17.195 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:47:17.762 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:48:12.425 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:48:13.108 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:48:13.382 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:48:13.510 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:48:14.714 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:48:25.024 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:48:25.655 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:48:25.832 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:48:25.953 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:48:26.076 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:48:36.953 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:48:37.512 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:48:37.714 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:48:37.856 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:48:37.956 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:48:48.157 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:48:48.720 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:48:48.844 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:48:48.962 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:48:49.080 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:49:00.390 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:49:01.257 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:49:01.435 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:49:01.559 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:49:04.874 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:49:06.574 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:49:06.578 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:49:11.744 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:49:12.284 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:51:51.244 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:51:52.109 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:51:52.355 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:51:52.507 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:51:52.640 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:51:58.782 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:51:58.797 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:51:58.797 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 21:51:58.907 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:51:59.550 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:51:59.950 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:52:00.117 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:52:00.317 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:52:05.388 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:52:05.388 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:52:05.388 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 21:52:05.501 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:52:06.087 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:52:06.279 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:52:06.413 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:52:07.499 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:52:12.572 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:52:12.572 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:52:12.587 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 21:52:12.696 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:52:13.296 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:52:13.406 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:52:13.557 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:52:13.670 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:52:19.822 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:52:19.822 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:52:19.822 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 21:52:19.942 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:52:20.498 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:52:20.684 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:52:20.794 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:52:20.906 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:52:22.293 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:52:22.293 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:52:23.892 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 21:52:24.035 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:52:24.604 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:58:13.384 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:58:16.107 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:58:16.350 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:58:16.480 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:58:16.631 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:58:22.807 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:58:22.807 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:58:22.822 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 21:58:22.999 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:58:23.946 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:58:24.241 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:58:24.374 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:58:24.505 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:58:32.217 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:58:32.217 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:58:32.217 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 21:58:32.355 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:58:33.124 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:58:33.429 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:58:33.588 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:58:33.754 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:58:39.775 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:58:39.775 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:58:39.775 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 21:58:39.897 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:58:43.256 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:58:43.390 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:58:43.537 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:58:43.671 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:58:53.813 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:58:53.813 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:58:53.813 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 21:58:53.955 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:58:54.572 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 21:58:54.748 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 21:58:54.864 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 21:58:54.960 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 21:58:56.839 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 21:58:56.839 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 21:58:58.438 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 21:58:58.584 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 21:58:59.174 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:15:10.494 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:15:11.296 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:15:11.623 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:15:11.758 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:15:13.428 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:15:18.502 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 22:15:18.502 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 22:15:18.642 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:15:19.276 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:15:19.486 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:15:19.655 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:15:19.828 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:15:24.860 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 22:15:24.860 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 22:15:24.982 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:15:25.778 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:15:25.978 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:15:26.103 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:15:26.247 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:15:31.319 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 22:15:31.319 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 22:15:31.422 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:15:32.009 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:15:32.108 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:15:32.215 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:15:32.323 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:15:38.639 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 22:15:38.639 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 22:15:38.757 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:15:39.933 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:15:40.117 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:15:40.257 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:15:41.818 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:15:41.862 [TestNG-tests-1] INFO  Base.BaseTest - validation for Invalid result.
+2026-06-09 22:15:41.862 [TestNG-tests-1] INFO  Base.BaseTest - validation for Valid Result.
+2026-06-09 22:15:42.982 [TestNG-tests-1] INFO  Base.BaseTest - Test Case completed.
+2026-06-09 22:15:43.118 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:15:43.981 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:25:33.223 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:25:34.040 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:25:34.291 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:25:34.431 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:25:34.589 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:25:40.922 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-09 22:25:40.931 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-09 22:25:40.931 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-09 22:25:41.070 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:25:41.690 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:25:41.951 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:25:42.099 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:25:42.296 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:25:48.276 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-09 22:25:48.276 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-09 22:25:48.276 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-09 22:25:48.393 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:25:48.964 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:25:49.161 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:25:49.311 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:25:49.427 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:25:55.375 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-09 22:25:55.375 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-09 22:25:55.375 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-09 22:25:55.501 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:25:56.096 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:25:56.189 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:25:56.323 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:25:56.438 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:26:02.618 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-09 22:26:02.618 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-09 22:26:02.618 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-09 22:26:02.747 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:26:03.335 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:26:03.521 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:26:03.651 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:26:03.757 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:26:05.441 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-09 22:26:05.442 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-09 22:26:06.466 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-09 22:26:06.607 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:26:07.190 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:29:33.403 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:29:34.143 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:29:34.381 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:29:34.518 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:29:35.600 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:29:40.642 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-09 22:29:40.642 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-09 22:29:40.642 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-09 22:29:40.781 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:29:41.375 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:29:41.593 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:29:41.778 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:29:42.035 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:29:47.771 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-09 22:29:47.771 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-09 22:29:47.771 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-09 22:29:47.912 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:29:48.654 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:29:48.869 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:29:49.004 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:29:49.127 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:29:54.195 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-09 22:29:54.195 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-09 22:29:54.195 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-09 22:29:54.319 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:29:54.913 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:29:55.013 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:29:55.128 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:29:56.414 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:30:01.443 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-09 22:30:01.443 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-09 22:30:01.443 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-09 22:30:01.576 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:30:02.602 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:30:02.804 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:30:02.923 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:30:11.047 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:30:11.096 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-09 22:30:11.096 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-09 22:30:12.342 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-09 22:30:12.482 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:30:13.124 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:34:13.884 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:34:14.634 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:34:14.928 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:34:15.058 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:34:16.220 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:34:21.324 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-09 22:34:21.324 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-09 22:34:21.324 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-09 22:34:21.505 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:34:22.354 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:34:22.580 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:34:22.732 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:34:22.862 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:34:28.888 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-09 22:34:28.888 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-09 22:34:28.888 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-09 22:34:29.061 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:34:29.677 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:34:29.889 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:34:30.186 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:34:31.303 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:34:36.364 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-09 22:34:36.364 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-09 22:34:36.364 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-09 22:34:36.482 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:34:37.078 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:34:37.168 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:34:37.289 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:34:37.398 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:34:43.592 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-09 22:34:43.592 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-09 22:34:43.592 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-09 22:34:43.715 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-09 22:34:44.308 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-09 22:34:44.495 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-09 22:34:44.608 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-09 22:34:44.728 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-09 22:34:46.156 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-09 22:34:46.156 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-09 22:34:47.138 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-10 11:54:45.731 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 11:54:46.847 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 11:54:48.002 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 11:54:49.516 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-10 12:00:30.902 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 12:00:33.657 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 12:00:34.770 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 12:00:44.915 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-10 12:02:43.293 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 12:02:44.400 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 12:02:45.552 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 12:02:47.301 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-10 12:02:52.719 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 12:02:53.287 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 12:02:53.569 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 12:02:53.680 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 12:02:55.670 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 12:02:55.680 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-10 12:02:55.772 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-10 12:02:56.612 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-10 12:02:57.187 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-10 12:03:04.074 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 12:03:04.691 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 12:03:04.960 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 12:03:05.105 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 12:03:05.261 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 12:03:11.339 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-10 12:03:11.339 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-10 12:03:11.339 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-10 12:03:19.225 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 12:03:19.987 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 12:03:20.232 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 12:03:20.413 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 12:03:22.029 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 12:03:27.091 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-10 12:03:27.091 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-10 12:03:27.091 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-10 12:03:33.669 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 12:03:34.623 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 12:03:34.859 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 12:03:35.029 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 12:03:35.215 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 12:03:40.225 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-10 12:03:40.225 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-10 12:03:40.226 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-10 12:03:45.944 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 12:03:46.589 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 12:03:46.776 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 12:03:46.892 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 12:03:48.590 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 12:03:53.625 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-10 12:03:53.626 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-10 12:03:53.626 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-10 12:04:00.013 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 12:04:00.587 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 12:04:00.813 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 12:04:00.967 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 12:04:03.070 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 12:04:03.126 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-10 12:04:03.126 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-10 12:04:03.941 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-10 14:46:30.028 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 14:46:31.185 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 14:46:32.327 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 14:46:34.083 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-10 14:46:39.842 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 14:46:40.435 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 14:46:40.812 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 14:46:40.948 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 14:46:41.116 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 14:46:41.145 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-10 14:46:42.441 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-10 14:46:43.195 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-10 14:46:43.834 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-10 15:12:38.125 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 15:12:39.688 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 15:12:40.831 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 15:12:48.927 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 15:12:49.575 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 15:12:49.864 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 15:12:49.992 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 15:12:51.917 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 15:12:51.932 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-10 15:12:52.017 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-10 15:12:52.827 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-10 15:12:53.515 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-10 15:20:22.828 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 15:20:24.064 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 15:20:25.271 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 15:20:34.783 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 15:20:35.374 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 15:20:35.660 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 15:20:35.812 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 15:20:35.960 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 15:20:35.980 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-10 15:20:37.395 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-10 15:20:38.182 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-10 15:20:38.776 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-10 16:09:57.263 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 16:09:58.502 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 16:09:59.937 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 16:10:18.873 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 16:10:19.689 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 16:10:19.969 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 16:10:20.110 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 16:10:23.372 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 16:10:23.385 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-10 16:10:23.492 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-10 16:10:24.711 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-10 16:10:25.693 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-10 16:25:04.327 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 16:25:07.128 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 16:25:08.639 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 16:25:17.347 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 16:25:18.411 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 16:25:19.583 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 16:25:26.757 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 16:25:28.301 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 16:25:29.619 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 16:25:36.669 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 16:25:37.720 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 16:25:38.904 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 16:25:45.773 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 16:25:46.754 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 16:25:47.971 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 16:27:04.669 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 16:27:06.232 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 16:27:07.329 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 16:27:14.040 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 16:27:15.204 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 16:27:16.369 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 16:27:24.008 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 16:27:24.565 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 16:27:24.860 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 16:27:25.009 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 16:27:26.552 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 16:27:26.566 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-10 16:27:26.665 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-10 16:27:27.467 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-10 16:27:28.028 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-10 18:08:34.573 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 18:08:35.683 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 18:08:36.804 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 18:08:45.234 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 18:08:45.831 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 18:08:46.159 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 18:08:46.305 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 18:08:47.582 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 18:08:47.601 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-10 18:08:47.682 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-10 18:08:48.413 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-10 18:08:48.968 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-10 18:13:38.245 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 18:13:39.509 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 18:13:40.717 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 18:13:49.169 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 18:13:50.621 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 18:13:51.844 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 18:14:00.005 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 18:14:00.586 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 18:14:00.877 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 18:14:01.009 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 18:14:01.148 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 18:14:01.165 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-10 18:14:02.654 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-10 18:14:03.574 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-10 18:14:04.124 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-10 20:58:31.761 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 20:58:33.186 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 20:58:34.587 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 20:58:42.121 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 20:58:43.324 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 20:58:44.568 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 20:58:52.809 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 20:58:53.376 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 20:58:53.651 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 20:58:53.791 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 20:58:55.228 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 20:58:55.243 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-10 20:58:55.360 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-10 20:58:56.077 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-10 20:58:56.637 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-10 21:18:26.787 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 21:18:28.043 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 21:18:29.399 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 21:18:31.045 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-10 21:18:37.339 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 21:18:37.967 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 21:18:38.288 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 21:18:38.433 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 21:18:38.617 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 21:18:38.649 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-10 21:18:39.868 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-10 21:18:40.649 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-10 21:18:41.176 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-10 21:20:41.183 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 21:20:42.508 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 21:20:43.739 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 21:20:47.137 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-10 21:20:53.888 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 21:20:54.485 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 21:20:54.842 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 21:20:55.041 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 21:20:55.261 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 21:20:55.287 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-10 21:20:56.693 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-10 21:20:57.535 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-10 21:20:58.172 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-10 21:48:19.408 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 21:48:20.928 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 21:48:22.051 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 21:48:23.666 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-10 21:48:29.649 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 21:48:30.340 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 21:48:30.617 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 21:48:30.740 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 21:48:31.997 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 21:48:32.010 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-10 21:48:32.102 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-10 21:48:32.872 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-10 21:48:33.389 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-10 21:52:35.937 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 21:52:37.738 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 21:52:38.916 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 21:52:40.592 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-10 21:52:46.813 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 21:52:47.447 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 21:52:47.705 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 21:52:47.842 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 21:52:48.023 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 21:52:48.031 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-10 21:52:49.287 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-10 21:52:50.049 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-10 21:52:50.599 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-10 21:54:00.571 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-10 21:54:03.107 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-10 21:54:04.354 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-10 21:54:06.234 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-10 21:54:13.238 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-10 21:54:13.836 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-10 21:54:14.150 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-10 21:54:14.278 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-10 21:54:15.635 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-10 21:54:15.648 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-10 21:54:15.737 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-10 21:54:16.560 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-10 21:54:17.144 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-11 13:34:00.284 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-11 13:34:01.803 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-11 13:34:03.177 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-11 13:34:05.790 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-11 13:34:12.703 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 13:34:13.456 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 13:34:13.860 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 13:34:14.007 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 13:34:15.759 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 13:34:15.765 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-11 13:34:15.846 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-11 13:34:16.867 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-11 13:34:17.548 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-11 13:41:39.620 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 13:41:40.432 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 13:41:40.817 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 13:41:41.084 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 13:41:42.332 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 13:41:47.441 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-11 13:41:47.450 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-11 13:41:47.450 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-11 13:41:56.245 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 13:41:57.080 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 13:41:57.369 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 13:41:57.502 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 13:42:01.796 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 13:42:06.879 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-11 13:42:06.879 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-11 13:42:06.879 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-11 13:42:13.691 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 13:42:14.449 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 13:42:14.727 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 13:42:14.855 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 13:42:15.031 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 13:42:21.141 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-11 13:42:21.141 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-11 13:42:21.142 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-11 13:42:28.256 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 13:42:28.930 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 13:42:29.131 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 13:42:29.289 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 13:42:30.853 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 13:42:35.897 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-11 13:42:35.897 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-11 13:42:35.898 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-11 13:42:43.408 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 13:42:44.091 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 13:42:44.436 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 13:42:44.586 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 13:42:44.765 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 13:42:46.221 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-11 13:42:46.221 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-11 13:42:47.222 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-11 13:49:11.035 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 13:49:11.809 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 13:49:12.072 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 13:49:12.197 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 13:49:13.554 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 13:49:18.591 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-11 13:49:18.607 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-11 13:49:18.607 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-11 13:49:28.020 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 13:49:28.780 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 13:49:29.129 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 13:49:29.341 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 13:49:30.831 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 13:49:35.844 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-11 13:49:35.844 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-11 13:49:35.844 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-11 13:49:42.591 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 13:49:43.334 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 13:49:43.578 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 13:49:43.744 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 13:49:45.001 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 13:49:50.014 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-11 13:49:50.014 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-11 13:49:50.014 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-11 13:49:57.408 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 13:49:58.069 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 13:49:58.243 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 13:49:58.403 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 13:49:58.563 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 13:50:17.877 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-11 13:50:17.877 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-11 13:50:17.877 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-11 13:50:24.801 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 13:50:25.632 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 13:50:25.937 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 13:50:26.042 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 13:50:29.299 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 13:50:29.349 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-11 13:50:29.349 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-11 13:50:30.565 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-11 13:58:02.114 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-11 13:58:03.640 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-11 13:58:04.740 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-11 13:58:06.971 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-11 13:58:13.769 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 13:58:14.467 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 13:58:14.755 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 13:58:14.874 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 13:58:16.423 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 13:58:16.452 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-11 13:58:16.526 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-11 13:58:17.554 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-11 13:58:18.239 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-11 13:59:01.645 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 13:59:02.439 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 13:59:02.671 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 13:59:02.895 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 13:59:03.085 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 13:59:09.603 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-11 13:59:09.603 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-11 13:59:09.603 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-11 13:59:29.153 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 13:59:30.015 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 13:59:30.344 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 13:59:30.599 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 13:59:32.060 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 13:59:37.158 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-11 13:59:37.158 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-11 13:59:37.158 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-11 13:59:46.526 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 13:59:47.251 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 13:59:47.478 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 13:59:47.619 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 13:59:48.863 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 13:59:53.886 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-11 13:59:53.887 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-11 13:59:53.887 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-11 14:00:00.686 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 14:00:04.123 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 14:00:04.251 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 14:00:04.420 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 14:00:23.244 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 14:00:28.294 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-11 14:00:28.294 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-11 14:00:28.294 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-11 14:00:35.842 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 14:00:36.825 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 14:00:37.021 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 14:00:37.272 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 14:00:37.477 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 14:00:41.504 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for invalid result ***
+2026-06-11 14:00:41.504 [TestNG-tests-1] INFO  Base.BaseTest - ***validation for valid result ***
+2026-06-11 14:00:42.859 [TestNG-tests-1] INFO  Base.BaseTest - ***completed LoginDDTest ***
+2026-06-11 14:19:55.774 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-11 14:19:58.813 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-11 14:20:00.339 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-11 14:20:17.036 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-11 14:20:24.909 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 14:20:27.444 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 14:20:27.776 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 14:20:27.926 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 14:20:51.061 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 14:20:51.073 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-11 14:20:51.189 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-11 14:20:53.047 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-11 14:20:54.133 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-11 14:27:25.724 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-11 14:27:27.070 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-11 14:27:28.394 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-11 14:27:30.378 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-11 14:27:39.677 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 14:27:40.423 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 14:27:40.796 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 14:27:40.946 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 14:27:43.004 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 14:27:43.023 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-11 14:27:43.212 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-11 14:27:44.328 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-11 14:27:45.145 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-11 14:41:09.717 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-11 14:41:11.376 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-11 14:41:12.559 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-11 14:41:16.072 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-11 14:41:23.817 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 14:41:24.514 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 14:41:24.707 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 14:41:24.848 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 14:41:26.538 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 14:41:26.549 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-11 14:41:26.629 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-11 14:41:27.695 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-11 14:41:28.395 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-11 15:08:27.455 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-11 15:08:29.944 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-11 15:08:31.336 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-11 15:08:33.648 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-11 15:08:40.453 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 15:08:41.236 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 15:08:41.570 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 15:08:41.842 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 15:08:42.051 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 15:08:42.062 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-11 15:08:44.274 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-11 15:08:45.242 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-11 15:08:45.899 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-11 17:36:38.514 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-11 17:36:39.598 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-11 17:36:40.502 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-11 17:36:42.102 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-11 17:36:47.802 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 17:36:48.314 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 17:36:48.483 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 17:36:48.613 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 17:36:48.749 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 17:36:48.759 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-11 17:36:50.421 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-11 17:36:51.191 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-11 17:36:51.763 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-11 17:42:50.606 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-11 17:42:51.868 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-11 17:42:52.858 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-11 17:42:55.181 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-11 17:43:00.128 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-11 17:43:00.747 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-11 17:43:00.919 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-11 17:43:01.067 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-11 17:43:01.198 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-11 17:43:01.210 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-11 17:43:02.716 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-11 17:43:03.545 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-11 17:43:04.106 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-12 14:08:58.895 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-12 14:09:01.630 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-12 14:09:03.742 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-12 14:09:07.483 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-12 14:09:23.812 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-12 14:09:24.496 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-12 14:09:25.200 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-12 14:09:26.304 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-12 14:09:28.404 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-12 14:09:28.422 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-12 14:09:28.998 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-12 14:09:30.860 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-12 14:09:31.792 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.
+2026-06-12 14:10:44.057 [TestNG-tests-1] INFO  Base.BaseTest - Test Has been started
+2026-06-12 14:10:45.352 [TestNG-tests-1] INFO  Base.BaseTest - Entering Registeration Details.
+2026-06-12 14:10:46.627 [TestNG-tests-1] INFO  Base.BaseTest - Clicking on Contineu Button.
+2026-06-12 14:10:48.727 [TestNG-tests-1] INFO  Base.BaseTest - Test Case Passed.
+2026-06-12 14:11:06.143 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on My account button.
+2026-06-12 14:11:06.914 [TestNG-tests-1] INFO  Base.BaseTest - Click on Login button
+2026-06-12 14:11:07.638 [TestNG-tests-1] INFO  Base.BaseTest - Entred the Username.
+2026-06-12 14:11:07.835 [TestNG-tests-1] INFO  Base.BaseTest - Entered Password.
+2026-06-12 14:11:09.288 [TestNG-tests-1] INFO  Base.BaseTest - Clicked Login Button.
+2026-06-12 14:11:09.310 [TestNG-tests-1] INFO  Base.BaseTest - Landed on my account Page.
+2026-06-12 14:11:09.404 [TestNG-tests-1] INFO  Base.BaseTest - My account text verified.
+2026-06-12 14:11:10.256 [TestNG-tests-1] INFO  Base.BaseTest - Clicked on Logout button.
+2026-06-12 14:11:10.927 [TestNG-tests-1] INFO  Base.BaseTest - Logout successfully.

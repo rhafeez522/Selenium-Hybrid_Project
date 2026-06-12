@@ -1,0 +1,9 @@
+TestCases\LoginDataDrivenTest.class
+Base\BaseTest.class
+utilities\TestTransformer.class
+TestCases\LoginTest.class
+utilities\RetryFailedTest.class
+TestCases\RegistrationTest.class
+utilities\DataProviders.class
+utilities\ExcelReader.class
+utilities\ExtentReporterNG.class

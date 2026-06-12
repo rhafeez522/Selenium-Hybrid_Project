@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+
+<suite name="Suite" thread-count="5" parallel="tests">
+
+
+	<parameter name="Browser" value="chrome"></parameter>
+	<parameter name="OS" value="Windows"></parameter>
+
+	<listeners>
+
+		<listener class-name="utilities.ExtentReporterNG"/>
+		<listener class-name="utilities.TestTransformer" />
+
+	</listeners>
+
+	<test thread-count="5" name="Test_01">
+		<classes>
+<!--			<class name="TestCases.RegistrationTest" />
+			<class name="TestCases.LoginTest" />-->
+			<class name="TestCases.LoginDataDrivenTest" />
+
+		</classes>
+	</test>
+
+
+</suite> <!--
+Suite -->
